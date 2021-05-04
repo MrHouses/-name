@@ -1,0 +1,14 @@
+|Accesos Directos|
+|----------------|
+| ID             |
+| Nombre         |
+| Nombre Vista   |
+| Empresa        |
+| UserCreate     |
+| Fecha          |
+| NumAcceso      |
+| Imagen         |
+| Color          |
+|----------------|
+
+baths for cows
